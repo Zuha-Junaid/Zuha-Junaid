@@ -39,7 +39,7 @@ I'm a **Software Engineer, AI/ML Engineer, and Full-Stack Developer** focused on
 
 My work spans **Artificial Intelligence, Machine Learning, LLMs, Agentic AI, automation, full-stack development, cloud technologies, and mobile applications**.
 
-I enjoy moving from an idea to an actual working system — designing the architecture, building the models and backend, developing the interface, testing the system, and turning the result into something people can use.
+I enjoy moving from an idea to an actual working system, designing the architecture, building the models and backend, developing the interface, testing the system, and turning the result into something people can use.
 
 <br/>
 
@@ -60,7 +60,8 @@ I enjoy moving from an idea to an actual working system — designing the archit
 
 <br/>
 
-> **Build systems that solve real problems — not just demos that look impressive.**
+> **Build systems that solve real problems, not just demos that look impressive.
+> "Great software is not just written. It is engineered."**
 
 </td>
 
