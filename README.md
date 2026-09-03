@@ -6,9 +6,6 @@
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2F2F2F?style=for-the-badge&logo=github&logoColor=white)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zuha-Junaid&color=2f2f2f&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Zuha-Junaid?color=2f2f2f&style=flat-square&label=Followers)
-
 </div>
 
 ---
@@ -26,7 +23,7 @@ const zuhaJunaid = {
   launchedProjects: ["Emotion-Recognition-System", "research-nexus"],
   certifications: [], // none provided yet
   status: "Open to work",
-  openTo: ["Full-time Software Engineering roles", "AI / ML collaborations"],
+  openTo: ["Full-time Software Engineering roles", "AI / ML collaborations & roles"],
 };
 ```
 
@@ -90,34 +87,7 @@ A modern academic collaboration platform for uploading, sharing, and managing re
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zuha-Junaid&show_icons=true&theme=nord&border_color=2f2f2f&title_color=2f2f2f&text_color=333333&icon_color=2f2f2f" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuha-Junaid&layout=compact&theme=nord&border_color=2f2f2f&title_color=2f2f2f&text_color=333333" />
-
-![Streak Stats](https://streak-stats.demolab.com/?user=Zuha-Junaid&theme=nord&border=2f2f2f&ring=2f2f2f&fire=2f2f2f)
-
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Zuha-Junaid&theme=nord&no-frame=true&no-bg=true&margin-w=10)
-
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zuha-Junaid&theme=nord&hide_border=true&color=2f2f2f&line=2f2f2f&point=333333)
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
@@ -125,7 +95,6 @@ A modern academic collaboration platform for uploading, sharing, and managing re
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2F2F2F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuha-junaid)
 [![Email](https://img.shields.io/badge/Email-2F2F2F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zuhawork0@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2F2F2F?style=for-the-badge&logo=netlify&logoColor=white)](https://zuha-junaid-portfolio.netlify.app/)
 
 </div>
 
