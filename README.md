@@ -16,18 +16,6 @@
 
 <br/><br/>
 
-<a href="https://github.com/Zuha-Junaid">
-  <img src="https://img.shields.io/github/followers/Zuha-Junaid?label=Followers&style=for-the-badge&color=6A5ACD&labelColor=2F2F2F" alt="GitHub Followers"/>
-</a>
-<a href="https://github.com/Zuha-Junaid?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Zuha-Junaid?label=Stars&style=for-the-badge&color=9B8AFB&labelColor=2F2F2F" alt="GitHub Stars"/>
-</a>
-<a href="https://github.com/Zuha-Junaid">
-  <img src="https://komarev.com/ghpvc/?username=Zuha-Junaid&label=Profile%20Views&color=6A5ACD&style=for-the-badge" alt="Profile Views"/>
-</a>
-
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/zuha-junaid">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
