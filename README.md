@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=240&section=header&text=Zuha%20Junaid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=240&section=header&text=Zuha%20Junaid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=240&section=header&text=Zuha%20Junaid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="Zuha Junaid Header Banner"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:9B8AFB,100:4B4B4B&height=240&section=header&text=Zuha%20Junaid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:9B8AFB,100:4B4B4B&height=240&section=header&text=Zuha%20Junaid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:9B8AFB,100:4B4B4B&height=240&section=header&text=Zuha%20Junaid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="Zuha Junaid Header Banner"/>
 </picture>
 
 <br/>
@@ -11,28 +11,28 @@
 # Hey there, I'm Zuha Junaid 👋
 
 <a href="https://github.com/Zuha-Junaid">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=EF93C4&center=true&vCenter=true&width=760&lines=Software+Engineer+%7C+AI%2FML+Engineer;Full-Stack+Developer+%7C+Problem+Solver;Building+Intelligent+%26+Scalable+Systems;Exploring+LLMs%2C+Agentic+AI+%26+Automation;Turning+Complex+Ideas+Into+Elegant+Software" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=6A5ACD&center=true&vCenter=true&width=760&lines=Software+Engineer+%7C+AI%2FML+Engineer;Full-Stack+Developer+%7C+Problem+Solver;Building+Intelligent+%26+Scalable+Systems;Exploring+LLMs%2C+Agentic+AI+%26+Automation;Turning+Complex+Ideas+Into+Elegant+Software" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Zuha-Junaid">
-  <img src="https://img.shields.io/github/followers/Zuha-Junaid?label=Followers&style=for-the-badge&color=EF93C4&labelColor=161616" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/followers/Zuha-Junaid?label=Followers&style=for-the-badge&color=6A5ACD&labelColor=2F2F2F" alt="GitHub Followers"/>
 </a>
 <a href="https://github.com/Zuha-Junaid?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Zuha-Junaid?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=161616" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/stars/Zuha-Junaid?label=Stars&style=for-the-badge&color=9B8AFB&labelColor=2F2F2F" alt="GitHub Stars"/>
 </a>
 <a href="https://github.com/Zuha-Junaid">
-  <img src="https://komarev.com/ghpvc/?username=Zuha-Junaid&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Zuha-Junaid&label=Profile%20Views&color=6A5ACD&style=for-the-badge" alt="Profile Views"/>
 </a>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/zuha-junaid">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:zuhawork0@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Contact-777777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -82,11 +82,11 @@ I enjoy moving from an idea to an actual working system — designing the archit
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AI%20%26%20Software-EF93C4?style=for-the-badge&logoColor=white" alt="AI and Software"/>
+<img src="https://img.shields.io/badge/AI%20%26%20Software-6A5ACD?style=for-the-badge&logoColor=white" alt="AI and Software"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Full--Stack-F8BBD0?style=for-the-badge&logoColor=white" alt="Full Stack"/>
+<img src="https://img.shields.io/badge/Full--Stack-777777?style=for-the-badge&logoColor=white" alt="Full Stack"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Always%20Learning-FF69B4?style=for-the-badge&logoColor=white" alt="Always Learning"/>
+<img src="https://img.shields.io/badge/Always%20Learning-9B8AFB?style=for-the-badge&logoColor=white" alt="Always Learning"/>
 
 </td>
 </tr>
@@ -160,7 +160,7 @@ An AI-powered business assistant combining **FastAPI, Ollama, RAG, FAISS, TF-IDF
 <br/>
 
 <a href="https://github.com/Zuha-Junaid/AI-Multi-Agent-Business-Automation">
-  <img src="https://img.shields.io/badge/View%20Project-EF93C4?style=for-the-badge&logo=github&logoColor=white" alt="View AI Multi-Agent Business Automation"/>
+  <img src="https://img.shields.io/badge/View%20Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="View AI Multi-Agent Business Automation"/>
 </a>
 
 </td>
@@ -183,7 +183,7 @@ An interactive dashboard comparing open-source LLMs across **inference speed, GP
 <br/>
 
 <a href="https://github.com/Zuha-Junaid/llm-benchmarking-dashboard">
-  <img src="https://img.shields.io/badge/View%20Project-F8BBD0?style=for-the-badge&logo=github&logoColor=white" alt="View LLM Benchmarking Dashboard"/>
+  <img src="https://img.shields.io/badge/View%20Project-777777?style=for-the-badge&logo=github&logoColor=white" alt="View LLM Benchmarking Dashboard"/>
 </a>
 
 </td>
@@ -205,7 +205,7 @@ Python • TensorFlow • Keras • Streamlit • Pandas • NumPy
 <br/><br/>
 
 <a href="https://github.com/Zuha-Junaid/Emotion-Recognition-System">
-  <img src="https://img.shields.io/badge/View%20Project-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="View Emotion Recognition System"/>
+  <img src="https://img.shields.io/badge/View%20Project-9B8AFB?style=for-the-badge&logo=github&logoColor=white" alt="View Emotion Recognition System"/>
 </a>
 
 </td>
@@ -225,11 +225,7 @@ React • Vite • Tailwind CSS • React Router • Recharts • jsPDF
 <br/><br/>
 
 <a href="https://github.com/Zuha-Junaid/flowfinance">
-  <img src="https://img.shields.io/badge/View%20Project-EF93C4?style=for-the-badge&logo=github&logoColor=white" alt="View FlowFinance"/>
-</a>
-&nbsp;
-<a href="https://flow-finance-byzj.netlify.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-FF69B4?style=for-the-badge&logo=netlify&logoColor=white" alt="FlowFinance Live Demo"/>
+  <img src="https://img.shields.io/badge/View%20Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="View FlowFinance"/>
 </a>
 
 </td>
@@ -251,7 +247,7 @@ MVVM • Java • Firebase Auth • Firestore • Storage • FCM
 <br/>
 
 <a href="https://github.com/Zuha-Junaid/Recall---Lost-Found-Android-Application">
-  <img src="https://img.shields.io/badge/View%20Project-F8BBD0?style=for-the-badge&logo=github&logoColor=white" alt="View RECALL"/>
+  <img src="https://img.shields.io/badge/View%20Project-777777?style=for-the-badge&logo=github&logoColor=white" alt="View RECALL"/>
 </a>
 
 </td>
@@ -271,7 +267,7 @@ Random Forest — 84% accuracy
 <br/><br/>
 
 <a href="https://github.com/Zuha-Junaid/Diabetes-Prediction-using-Machine-Learning">
-  <img src="https://img.shields.io/badge/View%20Project-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="View Diabetes Prediction Project"/>
+  <img src="https://img.shields.io/badge/View%20Project-9B8AFB?style=for-the-badge&logo=github&logoColor=white" alt="View Diabetes Prediction Project"/>
 </a>
 
 </td>
@@ -293,7 +289,7 @@ Multithreading • Mutex • Condition Variables • Deadlock Prevention • Con
 <br/>
 
 <a href="https://github.com/Zuha-Junaid/Operating_Systems_Project">
-  <img src="https://img.shields.io/badge/View%20Project-EF93C4?style=for-the-badge&logo=github&logoColor=white" alt="View Operating Systems Project"/>
+  <img src="https://img.shields.io/badge/View%20Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="View Operating Systems Project"/>
 </a>
 
 </td>
@@ -303,7 +299,7 @@ Multithreading • Mutex • Condition Variables • Deadlock Prevention • Con
 <br/><br/>
 
 <a href="https://github.com/Zuha-Junaid?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20All%20Repositories-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories"/>
+  <img src="https://img.shields.io/badge/Explore%20All%20Repositories-777777?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories"/>
 </a>
 
 <br/><br/>
@@ -325,20 +321,20 @@ Multithreading • Mutex • Condition Variables • Deadlock Prevention • Con
 <div align="center">
 
 <a href="https://github.com/Zuha-Junaid">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Zuha-Junaid&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=808080&ring_color=EF93C4" alt="Zuha's GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Zuha-Junaid&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=6A5ACD&icon_color=9B8AFB&text_color=777777" alt="Zuha's GitHub Stats"/>
 </a>
 
 <a href="https://github.com/Zuha-Junaid">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuha-Junaid&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=808080" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuha-Junaid&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=6A5ACD&text_color=777777" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zuha-Junaid&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=EF93C4&dates=808080" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zuha-Junaid&hide_border=true&background=00000000&ring=6A5ACD&fire=9B8AFB&currStreakLabel=6A5ACD&sideLabels=777777&currStreakNum=6A5ACD&sideNums=9B8AFB&dates=777777" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zuha-Junaid&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true&custom_title=Zuha%20Junaid%27s%20Contribution%20Graph" width="95%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zuha-Junaid&bg_color=00000000&color=6A5ACD&line=9B8AFB&point=777777&area=true&hide_border=true&custom_title=Zuha%20Junaid%27s%20Contribution%20Graph" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -451,15 +447,15 @@ Web • Mobile • Cloud
 <div align="center">
 
 <a href="https://www.linkedin.com/in/zuha-junaid">
-  <img src="https://img.shields.io/badge/LinkedIn-Zuha%20Junaid-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Zuha%20Junaid-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:zuhawork0@gmail.com">
-  <img src="https://img.shields.io/badge/Email-zuhawork0%40gmail.com-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-zuhawork0%40gmail.com-777777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://github.com/Zuha-Junaid">
-  <img src="https://img.shields.io/badge/GitHub-Zuha--Junaid-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Zuha--Junaid-9B8AFB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -468,9 +464,7 @@ Web • Mobile • Cloud
 
 <div align="center">
 
-<a href="https://github.com/Zuha-Junaid">
-  <img src="https://komarev.com/ghpvc/?username=Zuha-Junaid&label=Thanks%20for%20visiting&color=EF93C4&style=flat-square" alt="Profile Views"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Zuha-Junaid&label=Thanks%20for%20visiting&color=6A5ACD&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -478,6 +472,6 @@ Web • Mobile • Cloud
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=150&section=footer&text=Keep%20Building.%20Keep%20Learning.&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" alt="Pink Waving Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:9B8AFB,100:4B4B4B&height=150&section=footer&text=Keep%20Building.%20Keep%20Learning.&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" alt="Purple and Grey Waving Footer"/>
 
 </div>
