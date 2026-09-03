@@ -372,7 +372,7 @@ Web • Mobile • Cloud
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Zuha-Junaid&label=Thanks%20for%20visiting&color=6A5ACD&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Zuha-Junaid&label=Thanks%20for%20visiting&color=6A5ACD&style=flat-square" alt="Profile Views"/>
 
 </div>
 
