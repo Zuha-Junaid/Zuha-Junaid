@@ -1,82 +1,92 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                           HERO BANNER                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=220&section=header&text=YOUR_NAME&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=220&section=header&text=YOUR_NAME&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=220&section=header&text=YOUR_NAME&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="Header Banner"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=240&section=header&text=Zuha%20Junaid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=240&section=header&text=Zuha%20Junaid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=240&section=header&text=Zuha%20Junaid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="Zuha Junaid Header Banner"/>
 </picture>
 
 <br/>
 
-# Hey there, I'm [YOUR_NAME] 👋
+# Hey there, I'm Zuha Junaid 👋
 
-<a href="https://github.com/[YOUR_USERNAME]">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+AI%2FML+Engineer;Building+Intelligent+%26+Scalable+Systems;Full-Stack+Developer+%7C+Problem+Solver;Turning+Complex+Ideas+Into+Elegant+Solutions;Always+Learning.+Always+Building." alt="Typing SVG"/>
+<a href="https://github.com/Zuha-Junaid">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=EF93C4&center=true&vCenter=true&width=760&lines=Software+Engineer+%7C+AI%2FML+Engineer;Full-Stack+Developer+%7C+Problem+Solver;Building+Intelligent+%26+Scalable+Systems;Exploring+LLMs%2C+Agentic+AI+%26+Automation;Turning+Complex+Ideas+Into+Elegant+Software" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/[YOUR_USERNAME]">
-  <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1a1a1a" alt="GitHub Followers"/>
+<a href="https://github.com/Zuha-Junaid">
+  <img src="https://img.shields.io/github/followers/Zuha-Junaid?label=Followers&style=for-the-badge&color=EF93C4&labelColor=161616" alt="GitHub Followers"/>
 </a>
-<a href="https://github.com/[YOUR_USERNAME]?tab=repositories">
-  <img src="https://img.shields.io/github/stars/[YOUR_USERNAME]?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=1a1a1a" alt="GitHub Stars"/>
+<a href="https://github.com/Zuha-Junaid?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Zuha-Junaid?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=161616" alt="GitHub Stars"/>
 </a>
-<a href="https://github.com/[YOUR_USERNAME]">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile Views"/>
+<a href="https://github.com/Zuha-Junaid">
+  <img src="https://komarev.com/ghpvc/?username=Zuha-Junaid&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile Views"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/zuha-junaid">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:zuhawork0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                             ABOUT ME                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+---
 
 <h2 align="center">✦ About Me ✦</h2>
 
-<table align="center">
+<table align="center" width="90%">
 <tr>
-<td width="65%" valign="top">
+<td width="65%" valign="middle">
 
-### Hi, I'm [YOUR_NAME].
+I'm a **Software Engineer, AI/ML Engineer, and Full-Stack Developer** focused on building intelligent, practical, and scalable software systems.
 
-I'm a **[YOUR_ROLE]** passionate about building intelligent, scalable, and meaningful digital products.
+My work spans **Artificial Intelligence, Machine Learning, LLMs, Agentic AI, automation, full-stack development, cloud technologies, and mobile applications**.
 
-My interests sit at the intersection of **Software Engineering, Artificial Intelligence, Machine Learning, Automation, and Full-Stack Development**.
-
-I enjoy taking complex problems, breaking them down into elegant systems, and turning ideas into production-ready solutions.
-
-- 🔭 Currently working on **[CURRENT_PROJECT]**
-- 🌱 Currently learning **[CURRENTLY_LEARNING]**
-- 🤖 Interested in **AI / ML / LLMs / Automation**
-- 💻 Strong interest in **Software Architecture & Full-Stack Engineering**
-- 🚀 Building **[YOUR_PRODUCT / STARTUP / OPEN-SOURCE PROJECT]**
-- 🎯 Goal: **[YOUR_LONG_TERM_GOAL]**
-- 💬 Ask me about **[YOUR_EXPERTISE]**
-- ⚡ Fun fact: **[YOUR_FUN_FACT]**
+I enjoy moving from an idea to an actual working system — designing the architecture, building the models and backend, developing the interface, testing the system, and turning the result into something people can use.
 
 <br/>
 
-> *"Great software is not just written. It is engineered."*
+**What I work with**
+
+- Artificial Intelligence & Machine Learning
+- Large Language Models & LLM Benchmarking
+- RAG & AI-powered applications
+- Multi-Agent Systems & Business Automation
+- Full-Stack Web Development
+- Android Application Development
+- Cloud & Firebase Technologies
+- Software Architecture & System Design
+
+<br/>
+
+**Currently exploring:** Agentic AI, LLM internals, Transformer architectures, RAG systems, AI automation, and production-oriented AI engineering.
+
+<br/>
+
+> **Build systems that solve real problems — not just demos that look impressive.**
 
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td width="35%" align="center">
 
-<img src="https://github.com/[YOUR_USERNAME]/[YOUR_REPOSITORY]/raw/main/assets/profile.png"
-     width="280"
-     alt="[YOUR_NAME]"/>
+<img src="https://github.com/Zuha-Junaid.png" width="250" alt="Zuha Junaid"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-EF93C4?style=for-the-badge&logo=github&logoColor=white"
-     alt="Open to Collaboration"/>
+<img src="https://img.shields.io/badge/AI%20%26%20Software-EF93C4?style=for-the-badge&logoColor=white" alt="AI and Software"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Full--Stack-F8BBD0?style=for-the-badge&logoColor=white" alt="Full Stack"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Always%20Learning-FF69B4?style=for-the-badge&logoColor=white" alt="Always Learning"/>
 
 </td>
 </tr>
@@ -84,100 +94,280 @@ I enjoy taking complex problems, breaking them down into elegant systems, and tu
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                           TECH STACK                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+---
 
 <h2 align="center">✦ Tech Stack ✦</h2>
 
 <div align="center">
 
-### Languages
+<h3>Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,kotlin,php,html,css" alt="Programming Languages"/>
-
-<br/><br/>
-
-### AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="AI and Machine Learning"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,kotlin,php,html,css" alt="Programming Languages"/>
 
 <br/><br/>
 
-### Frameworks & Development
+<h3>AI • ML • Data</h3>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,androidstudio" alt="Frameworks and Development"/>
-
-<br/><br/>
-
-### Cloud, Databases & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,firebase,docker,git,github,vercel,mongodb,mysql,postgres" alt="Cloud Databases and DevOps"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="AI ML Technologies"/>
 
 <br/><br/>
 
-### Tools
+<h3>Web & Application Development</h3>
 
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux,githubactions" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,androidstudio" alt="Web and Application Development"/>
+
+<br/><br/>
+
+<h3>Cloud • Database • DevOps</h3>
+
+<img src="https://skillicons.dev/icons?i=aws,firebase,mongodb,mysql,postgres,docker,git,github,githubactions,vercel" alt="Cloud Database and DevOps"/>
+
+<br/><br/>
+
+<h3>Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=vscode,linux,postman,figma" alt="Development Tools"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         GITHUB ANALYTICS                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+---
+
+<h2 align="center">✦ Featured Projects ✦</h2>
+
+<div align="center">
+
+<table width="92%">
+<tr>
+<td width="50%" valign="top">
+
+<h3>AI Multi-Agent Business Automation</h3>
+
+An AI-powered business assistant combining **FastAPI, Ollama, RAG, FAISS, TF-IDF, SQLAlchemy, and specialized business agents**.
+
+<br/>
+
+<b>Highlights</b>
+
+- CEO, HR & Finance agents
+- Hybrid TF-IDF + FAISS retrieval
+- RAG pipeline
+- Persistent business documents
+- Deterministic database queries
+- Automated API testing
+
+<br/>
+
+<a href="https://github.com/Zuha-Junaid/AI-Multi-Agent-Business-Automation">
+  <img src="https://img.shields.io/badge/View%20Project-EF93C4?style=for-the-badge&logo=github&logoColor=white" alt="View AI Multi-Agent Business Automation"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>LLM Benchmarking Dashboard</h3>
+
+An interactive dashboard comparing open-source LLMs across **inference speed, GPU memory, response quality, context length, latency, and cost**.
+
+<br/>
+
+<b>Models explored</b>
+
+- Qwen2.5 1.5B
+- Phi-2
+- DeepSeek-Coder 1.3B
+- Gemma 2 2B
+
+<br/>
+
+<a href="https://github.com/Zuha-Junaid/llm-benchmarking-dashboard">
+  <img src="https://img.shields.io/badge/View%20Project-F8BBD0?style=for-the-badge&logo=github&logoColor=white" alt="View LLM Benchmarking Dashboard"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>Facial Emotion Recognition AI</h3>
+
+A deep-learning system that classifies facial expressions into **7 emotion categories** using a custom CNN and an interactive Streamlit dashboard.
+
+<br/>
+
+<b>Stack</b>
+
+Python • TensorFlow • Keras • Streamlit • Pandas • NumPy
+
+<br/><br/>
+
+<a href="https://github.com/Zuha-Junaid/Emotion-Recognition-System">
+  <img src="https://img.shields.io/badge/View%20Project-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="View Emotion Recognition System"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>FlowFinance</h3>
+
+A modern personal finance tracker for managing **income, expenses, financial insights, charts, transactions, and PDF reports**.
+
+<br/>
+
+<b>Stack</b>
+
+React • Vite • Tailwind CSS • React Router • Recharts • jsPDF
+
+<br/><br/>
+
+<a href="https://github.com/Zuha-Junaid/flowfinance">
+  <img src="https://img.shields.io/badge/View%20Project-EF93C4?style=for-the-badge&logo=github&logoColor=white" alt="View FlowFinance"/>
+</a>
+&nbsp;
+<a href="https://flow-finance-byzj.netlify.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-FF69B4?style=for-the-badge&logo=netlify&logoColor=white" alt="FlowFinance Live Demo"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>RECALL — Lost & Found Android App</h3>
+
+A community-driven Android application for reporting, searching, and recovering lost items with **Firebase authentication, real-time chat, notifications, and cloud synchronization**.
+
+<br/>
+
+<b>Architecture</b>
+
+MVVM • Java • Firebase Auth • Firestore • Storage • FCM
+
+<br/>
+
+<a href="https://github.com/Zuha-Junaid/Recall---Lost-Found-Android-Application">
+  <img src="https://img.shields.io/badge/View%20Project-F8BBD0?style=for-the-badge&logo=github&logoColor=white" alt="View RECALL"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>Diabetes Prediction using ML</h3>
+
+A machine-learning project for early diabetes-risk prediction using the **Pima Indians Diabetes Dataset**, with multiple classification algorithms evaluated using standard performance metrics.
+
+<br/>
+
+<b>Best Model</b>
+
+Random Forest — 84% accuracy
+
+<br/><br/>
+
+<a href="https://github.com/Zuha-Junaid/Diabetes-Prediction-using-Machine-Learning">
+  <img src="https://img.shields.io/badge/View%20Project-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="View Diabetes Prediction Project"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>Operating Systems Project</h3>
+
+A Python implementation of the **Readers-Writers synchronization problem with writer priority**, designed to prevent writer starvation.
+
+<br/>
+
+<b>Concepts</b>
+
+Multithreading • Mutex • Condition Variables • Deadlock Prevention • Concurrency
+
+<br/>
+
+<a href="https://github.com/Zuha-Junaid/Operating_Systems_Project">
+  <img src="https://img.shields.io/badge/View%20Project-EF93C4?style=for-the-badge&logo=github&logoColor=white" alt="View Operating Systems Project"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<br/><br/>
+
+<a href="https://github.com/Zuha-Junaid?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20All%20Repositories-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories"/>
+</a>
+
+<br/><br/>
+
+<i>More projects are continuously being built.</i>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
 
 <h2 align="center">✦ GitHub Analytics ✦</h2>
 
 <div align="center">
 
-<a href="https://github.com/[YOUR_USERNAME]">
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=808080"
-       alt="GitHub Stats"/>
+<a href="https://github.com/Zuha-Junaid">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Zuha-Junaid&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=808080&ring_color=EF93C4" alt="Zuha's GitHub Stats"/>
 </a>
 
-<a href="https://github.com/[YOUR_USERNAME]">
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=808080"
-       alt="Top Languages"/>
+<a href="https://github.com/Zuha-Junaid">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuha-Junaid&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=808080" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=EF93C4&dates=808080"
-     alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zuha-Junaid&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=EF93C4&dates=808080" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true"
-     alt="GitHub Activity Graph"
-     width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zuha-Junaid&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true&custom_title=Zuha%20Junaid%27s%20Contribution%20Graph" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         CONTRIBUTION SNAKE                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+---
 
-<h2 align="center">✦ Contribution Journey ✦</h2>
+<h2 align="center">✦ Contribution Snake ✦</h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg"
-     alt="GitHub Contribution Snake"
-     width="95%"/>
+<p>Watch the contribution graph come alive.</p>
+
+<img src="https://raw.githubusercontent.com/Zuha-Junaid/Zuha-Junaid/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/>
 
 </div>
 
 <!--
-GitHub Action:
-Create .github/workflows/snake.yml
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                         GITHUB SNAKE ACTION                                 ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 
-name: Generate Snake
+Create:
+
+.github/workflows/snake.yml
+
+with:
+
+name: Generate Contribution Snake
 
 on:
   schedule:
@@ -189,7 +379,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate contribution snake
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -197,7 +387,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Deploy to output branch
+      - name: Deploy Snake
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
@@ -208,74 +398,86 @@ jobs:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                              PROJECTS                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+---
 
-<h2 align="center">✦ Featured Projects ✦</h2>
+<h2 align="center">✦ What I'm Building ✦</h2>
 
 <div align="center">
 
-<a href="https://github.com/[YOUR_USERNAME]/[PROJECT_1]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[PROJECT_1]&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=808080"
-       alt="[PROJECT_1]"/>
-</a>
+<table>
+<tr>
+<td align="center" width="25%">
 
-<a href="https://github.com/[YOUR_USERNAME]/[PROJECT_2]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[PROJECT_2]&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=808080"
-       alt="[PROJECT_2]"/>
-</a>
-
+<b>Artificial Intelligence</b>
 <br/>
+LLMs • RAG • Agents
 
-<a href="https://github.com/[YOUR_USERNAME]/[PROJECT_3]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[PROJECT_3]&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=808080"
-       alt="[PROJECT_3]"/>
-</a>
+</td>
 
-<a href="https://github.com/[YOUR_USERNAME]/[PROJECT_4]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[PROJECT_4]&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=808080"
-       alt="[PROJECT_4]"/>
-</a>
+<td align="center" width="25%">
+
+<b>Software Engineering</b>
+<br/>
+Architecture • APIs • Systems
+
+</td>
+
+<td align="center" width="25%">
+
+<b>Automation</b>
+<br/>
+AI Workflows • Intelligent Tools
+
+</td>
+
+<td align="center" width="25%">
+
+<b>Full-Stack</b>
+<br/>
+Web • Mobile • Cloud
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                             CONNECT                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+---
 
 <h2 align="center">✦ Let's Connect ✦</h2>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_USERNAME]">
-  <img src="https://img.shields.io/badge/LinkedIn-[YOUR_NAME]-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white"
-       alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/zuha-junaid">
+  <img src="https://img.shields.io/badge/LinkedIn-Zuha%20Junaid-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:[YOUR_EMAIL]">
-  <img src="https://img.shields.io/badge/Email-[YOUR_EMAIL]-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white"
-       alt="Email"/>
+<a href="mailto:zuhawork0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-zuhawork0%40gmail.com-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="https://github.com/[YOUR_USERNAME]">
-  <img src="https://img.shields.io/badge/GitHub-[YOUR_USERNAME]-FF69B4?style=for-the-badge&logo=github&logoColor=white"
-       alt="GitHub"/>
+<a href="https://github.com/Zuha-Junaid">
+  <img src="https://img.shields.io/badge/GitHub-Zuha--Junaid-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
 
 <br/><br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                              FOOTER                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+<a href="https://github.com/Zuha-Junaid">
+  <img src="https://komarev.com/ghpvc/?username=Zuha-Junaid&label=Thanks%20for%20visiting&color=EF93C4&style=flat-square" alt="Profile Views"/>
+</a>
+
+</div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn"
-     alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=150&section=footer&text=Keep%20Building.%20Keep%20Learning.&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" alt="Pink Waving Footer"/>
 
 </div>
